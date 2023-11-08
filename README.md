@@ -11,25 +11,35 @@ The intention behind this endeavor is not for a final production model but rathe
 This model only support 10 word in Thai hand language
 
 ### 1. Angry
-![Alt text](hand_language_image/angry.png)
+<img src="hand_language_image/angry.png" width="250" height="200">
+
 ### 2. Working
-![Alt text](hand_language_image/working.png)
+<img src="hand_language_image/working.png" width="250" height="200">
+
 ### 3. Stand
-![Alt text](hand_language_image/stand.png)
+<img src="hand_language_image/stand.png" width="250" height="200">
+
 ### 4. Sit
-![Alt text](hand_language_image/sit.png)
+<img src="hand_language_image/sit.png" width="250" height="200">
+
 ### 5. Looking
-![Alt text](hand_language_image/look.png)
+<img src="hand_language_image/look.png" width="250" height="200">
+
 ### 6. Like
-![Alt text](hand_language_image/like.png)
+<img src="hand_language_image/like.png" width="250" height="200">
+
 ### 7. Hungry
-![Alt text](hand_language_image/hungry.png)
+<img src="hand_language_image/hungry.png" width="250" height="200">
+
 ### 8. Good
-![Alt text](hand_language_image/good.png)
+<img src="hand_language_image/good.png" width="250" height="200">
+
 ### 9. Food
-![Alt text](hand_language_image/food.png)
+<img src="hand_language_image/food.png" width="250" height="200">
+
 ### 10. Bad
-![Alt text](hand_language_image/bad.png)
+<img src="hand_language_image/bad.png" width="250" height="200">
+
 ### 11. Doing nothing (return as background)
 ## Table of Contents
 
@@ -79,4 +89,4 @@ Users can explore and use these individual Python scripts according to their req
 
 `KOBAYASHI-UwU`
 
-<img src="/Users/tai/project for everything/hand_lang/hand_language_image/kobayashi.gif" width="200" height="200">
+<img src="hand_language_image/kobayashi.gif" width="200" height="200">
