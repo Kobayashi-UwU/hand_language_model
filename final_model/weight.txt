@@ -1,0 +1,14 @@
+# 1 = background 2 4
+# 2 = stand 4 bad
+# 3 = bad 1 2 3
+# 4 = good 3 bad
+# 5 = angry 1 2 3 4
+# 6 = hungry 1 2
+# 7 = like 1 bad
+# 8 = food 1 2 3
+# 9 = look 1 2 3 4
+# 10 = sit 1 2 3
+# 11 = work 2 3 4
+
+lable1 ใช้กับ model 1,2,3
+lable2 ใช้กับ model 4
